@@ -1,0 +1,47 @@
+/* colors */
+
+header {
+	background: red;
+}
+
+main {
+	background: yellow;	
+}
+
+aside {
+	background: green;
+}
+
+
+footer {
+	background: blue;
+}
+
+/* layout*/
+
+main {
+	width: 60%;
+}
+
+aside {
+	width: 40%;
+}
+
+.container {
+	display: flex;
+}
+
+.placeholder {
+	border: 1px solid black;
+	background: rgba(255,255,255,.6);
+	padding: 10px;
+	height: 150px;
+}
+
+
+
+
+
+
+
+

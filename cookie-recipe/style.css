@@ -1,0 +1,54 @@
+body {
+	background-color: #ffe;
+	border: 3px solid black;
+	margin: 0;
+	padding: 30px;
+}
+
+.ingredients {
+	font-family: Georgia;
+	color: green;
+	font-size: 2em;
+}
+
+.ingredients-section {
+	background: rgba(66, 134, 244, .2);
+	border: 1px black solid;
+}
+.steps-section {
+	background: rgba(0,0,0,.2);
+	border: 1px black solid;
+}
+h1 {
+	font-family: Georgia, serif;
+}
+
+h2 {
+	font-family: sans-serif;
+}
+
+h3 {
+	color: #887;
+	font-style: italic;
+}
+
+h4 {
+	color: #887;
+}
+
+a {
+	color: #900;
+}
+
+img {
+	border: 3px solid black;
+}
+
+
+
+
+
+
+
+
+
