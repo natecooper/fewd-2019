@@ -6,8 +6,8 @@ body {
 }
 
 .ingredients {
-	font-family: Georgia;
-	color: green;
+	font-family: Times;
+	color: red;
 	font-size: 2em;
 }
 
@@ -20,7 +20,7 @@ body {
 	border: 1px black solid;
 }
 h1 {
-	font-family: Georgia, serif;
+	font-family: Times, serif;
 }
 
 h2 {
